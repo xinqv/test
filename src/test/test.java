@@ -22,6 +22,7 @@ public class test {
         String sr=test.sendPost("http://218.207.77.57:7002/carfriend/friend/unionclient.jsp", "phoneNo=13403311829");
         System.out.println(sr);
     
+        System.out.println("dddddddddd");
 		
 	}
 	
